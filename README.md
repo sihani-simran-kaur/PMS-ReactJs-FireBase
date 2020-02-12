@@ -1,5 +1,5 @@
 Two Command to run the project : 
 
-1st :  ```yarn```
+ ```yarn```
 
-2nd : ```npm start```
+ ```npm start```
